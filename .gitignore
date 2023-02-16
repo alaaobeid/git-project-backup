@@ -17,3 +17,6 @@ datasets/lfw_224.zip
 20180402-114759-vggface2.pt
 models/model_resnet34_triplet.pt
 models/download.py
+datasets/casual_conv/
+datasets/cc12.csv
+
